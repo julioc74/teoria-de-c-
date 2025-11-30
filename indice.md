@@ -3,6 +3,7 @@
 ├── basico/
 │   ├── introduccion.md
 │   ├── variables.md
+|   ├── tipos_de_dato.md
 │   ├── operadores.md
 │   ├── entrada_salida.md
 │   ├── condicionales.md
